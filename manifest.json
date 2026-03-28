@@ -1,0 +1,26 @@
+{
+  "name": "Hanzi Swipe",
+  "short_name": "Hanzi Swipe",
+  "description": "Apprends le chinois HSK 1-3 avec des cartes interactives",
+  "start_url": "/Hanzi-swipe/",
+  "scope": "/Hanzi-swipe/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F5F0",
+  "theme_color": "#DE2910",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
