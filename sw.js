@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hanzi-swipe-v182';
+const CACHE_NAME = 'hanzi-swipe-v189';
 const ASSETS = [
   '/Hanzi-swipe/',
   '/Hanzi-swipe/index.html',
